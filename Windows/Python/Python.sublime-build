@@ -1,0 +1,6 @@
+{
+	"cmd" : "python ${file_base_name}.py  && ${file_base_name}.exe",
+	"selector" : "source.c",
+	"shell": true,
+	"working_dir" : "$file_path"
+}
