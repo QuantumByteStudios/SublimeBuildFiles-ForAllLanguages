@@ -23,7 +23,7 @@ Yes, you Can Contribute too!
 Create an Issue
 
 1) you Can Run These Build Files in your system, and if you face any issues, let us know.
-2) If your system isn't listed here for ". Sublime-build" files created by you for your system refer to this <a href="https://www.sublimetext.com/docs/build_systems.html">documentation</a> or let us know.
+2) If your system isn't listed here for ". Sublime-build" files, created by yourself for your system refer this <a href="https://www.sublimetext.com/docs/build_systems.html">documentation</a> or let us know.
 
 # Current Build Systems Available for:
 * C
